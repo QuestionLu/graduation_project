@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- 手勢專題 ---
+# 程式執行時自動產生的結果檔（含個人實驗資料）
+src/hand_tracking/last_run.txt
+src/hand_tracking/last_pointer.txt
+src/hand_tracking/pointer_results.csv
